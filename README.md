@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreelakshmi Gangadharan</h1>
 <h3 align="center">A passionate frontend developer from India currently living in United Arab Emirates</h3>
 
-- 🔭 I’m currently working on **Blockchain technology**
+
 
 - 🌱 I’m currently learning **Oracle Cloud Infrastructure**
 
