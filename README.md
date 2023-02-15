@@ -3,16 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Sreelakshmi , an aspiring front-end developer👩‍💻</div>  
+### <div align="center">I'm Sreelakshmi , an aspiring data science professional👩‍💻</div>  
   
 
-- 🔭 I’m currently working on enhancing front-ends  
-  
 
-- 🌱 I’m currently learning Kubernetes  
-  
-
-- ⚡ Fun fact: I look up to the sky for ideas  
   
 
 <br/>  
