@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sreelakshmi , an aspiring data science professional👩‍💻</div>  
+### <div align="center">I'm Sreelakshmi , an aspiring web developer👩‍💻</div>  
   
 
 
